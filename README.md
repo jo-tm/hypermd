@@ -6,6 +6,7 @@ Clone of HackMD but Decentralized.
 Developed using NodeJS 18.
 
 ```bash
+npm install
 browserify main.js -t babelify -o bundle.js
 node app.js
 ```
